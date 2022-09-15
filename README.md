@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OluwatosinDurodola
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Udacity Data Analysis 
+- 👀 I'm an innovative Data Analyst and an Accountant who can turn data into actionable insights through data wrangling, conducting exploratory data analysis, and creating reports and dashboards.
+- 🌱 I’m currently studying Financial Analysis under ALx and CFI
 - 📫 How to reach me: oluwatosindboy@gmail.com
 
 <!---
